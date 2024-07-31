@@ -23,6 +23,13 @@ export default class ClickEvent extends Component {
                     <button onClick={()=>this.setState({value:0})}>reset</button>
                 </div>
                     <button onClick={this.callApi}>reset</button>
+                    <button onClick={this.callApi}>reset</button>
+                    <button >reset</button>
+                    <button >reset</button>
+                    <button >reset</button>
+                    <button >reset</button>
+                    <button >reset</button>
+                    <button >reset</button>
             </>
         )
     }
